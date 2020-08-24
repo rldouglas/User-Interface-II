@@ -214,9 +214,9 @@ button a {
     
   }
 nav {
-  display: flex;
-  flex-direction: column;
-}
+   display: flex;
+   flex-direction: column;
+ }
 @media only screen and (max-width: 500px) {
     body {
       background-color: peachpuff;
